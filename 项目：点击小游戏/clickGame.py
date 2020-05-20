@@ -7,7 +7,6 @@
 # @Software: PyCharm
 
 from selenium import webdriver
-import time
 
 brower = webdriver.Chrome()
 brower.get("http://www.sorpack.com/dv_plus/game/csgaoshou.htm")
