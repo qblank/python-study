@@ -77,4 +77,5 @@ def downComicByTypeUrl(url):
 if __name__ == '__main__':
     # "http://www.gllmh.com/kbmh/xt300/"
     # downComicByTypeUrl('http://www.gllmh.com/kbmh/xt300/') 心跳300秒
-    downComicByTypeUrl('http://www.gllmh.com/gqbj/')
+    # downComicByTypeUrl('http://www.gllmh.com/gqbj/')
+    downComicByTypeUrl('http://www.gllmh.com/bgyxz/')
